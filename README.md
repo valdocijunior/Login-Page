@@ -9,12 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <img align="center" src="https://img.shields.io/badge/-valdocijunior-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
   </p>
-
-    <p align="center">
-
-Simple Login Page just for study.
-
-  </p>
+<p align="center"> Simple Login Page just for study.
+</p>
 
 ## Tech Stack
 
